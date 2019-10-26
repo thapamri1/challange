@@ -7,9 +7,10 @@
 //============================================================================
 
 #include <iostream>
+#include <string>
 using namespace std;
 
-int main() {
-	cout << "Test" << endl; // prints !!!Hello World!!!
-	return 0;
-}
+//int main() {
+//	cout << "Test" << endl; // prints !!!Hello World!!!
+//	return 0;
+//}
